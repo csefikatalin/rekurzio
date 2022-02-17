@@ -1,0 +1,24 @@
+@charset "UTF-8";
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+}
+h1 {
+    text-align:center;
+    padding: 10px;
+}
+form{
+    padding: 10px;
+}
+#faVaszon, #vaszon {
+    border:1px solid grey;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px #cccccf;
+   
+    min-width:400px;
+    width:98%;
+    max-width:640px;
+     margin: 10px 5px;
+}
+
